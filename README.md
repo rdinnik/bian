@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Ресурс находится в стадии разработки... Открытие скоро.
 
-You can use the [editor on GitHub](https://github.com/rdinnik/bian/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Материалы, публикуемые на данном ресурсе будут посвящены принципам и методам проектирования BIAN - Banking Industry Architecture Network.
+Целевая аудитория - бизнес- и IT-архитекторы.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+BIAN - некоммерческая международная экосистема для взаимодействия ведущих банков, поставщиков решений, консультантов и исследователей.
+Оригинальный сайт организации находится по адресу [1]: http://bian.org
 
-### Markdown
+Миссия этой сети профессионалов - снижение затрат при осуществлении банковской деятельности, ускорение внедрения инноваций в отрасли. Участники объединили свои усилия и отраслевой опыт чтобы описать революционный банковский технологический фреймворк, который стандартизирует и упрощает базовую банковскую архитектуру, которая, как правило, была запутаной и устаревшей.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Основываясь на принципах сервисно-ориентированной архитектуры, описанная полноценная модель предлагает надежное решение для банков,  способствующее сотрудничеству в отрасли.
 
-```markdown
-Syntax highlighted code block
+Целью организации BIAN является описание стандартных сервисных операций, охватывающих работу банков (со временем могут быть включены и другие типы финансовых учреждений).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rdinnik/bian/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+BIAN утвердила конкретный подход к моделированию бизнес-поведения с целью описания сервисных операций, являющихся «каноническими» или одинаково интерпретируемыми в любом банке.
